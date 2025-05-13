@@ -1,2 +1,3 @@
 # ML-AI-Autogen
-Dolution to the compulsory ML assignment
+Solution to the compulsory ML assignment
+
